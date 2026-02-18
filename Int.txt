@@ -1,0 +1,1 @@
+This repo contains the data for the manuscript named "Informed forecasting: Leveraging auxiliary knowledge to boost large language models performance on time series forecasting".
